@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\3.2.6\3.2.6\bin\Debug\netcoreapp3.1\Mang.exe
+C:\Users\Admin\source\repos\3.2.6\3.2.6\bin\Debug\netcoreapp3.1\Mang.deps.json
+C:\Users\Admin\source\repos\3.2.6\3.2.6\bin\Debug\netcoreapp3.1\Mang.runtimeconfig.json
+C:\Users\Admin\source\repos\3.2.6\3.2.6\bin\Debug\netcoreapp3.1\Mang.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\3.2.6\3.2.6\bin\Debug\netcoreapp3.1\Mang.dll
+C:\Users\Admin\source\repos\3.2.6\3.2.6\bin\Debug\netcoreapp3.1\Mang.pdb
+C:\Users\Admin\source\repos\3.2.6\3.2.6\obj\Debug\netcoreapp3.1\Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\3.2.6\3.2.6\obj\Debug\netcoreapp3.1\Mang.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\3.2.6\3.2.6\obj\Debug\netcoreapp3.1\Mang.AssemblyInfo.cs
+C:\Users\Admin\source\repos\3.2.6\3.2.6\obj\Debug\netcoreapp3.1\Mang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\3.2.6\3.2.6\obj\Debug\netcoreapp3.1\Mang.dll
+C:\Users\Admin\source\repos\3.2.6\3.2.6\obj\Debug\netcoreapp3.1\Mang.pdb
+C:\Users\Admin\source\repos\3.2.6\3.2.6\obj\Debug\netcoreapp3.1\Mang.genruntimeconfig.cache
+C:\Users\Admin\source\repos\3.2.6\3.2.6\obj\Debug\netcoreapp3.1\Mang.csproj.AssemblyReference.cache
